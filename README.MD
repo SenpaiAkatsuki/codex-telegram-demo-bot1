@@ -1,8 +1,5 @@
 # Telegram Bot Template
 
-This repository provides a starting point for building Telegram bots using [aiogram v3](https://github.com/aiogram/aiogram/tree/dev-3.x).
-It includes optional integration with SQLAlchemy and Alembic and comes with a Docker setup for local development.
-
 ## Features
 - Basic project layout with example handlers
 - Optional PostgreSQL configuration via SQLAlchemy 2.0
